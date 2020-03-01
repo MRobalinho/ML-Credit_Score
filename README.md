@@ -15,8 +15,8 @@ After calculating the score, we submit the information to a machine learning wit
 Our formula for Score calculation described on: Score calculation.xlsx
 
 Our customer information: Customers_CODE.XLSX
-  Customer from date
-  State, Region, Postcode, Salesman, Main CNAE
+ >> Customer from date
+ >> State, Region, Postcode, Salesman, Main CNAE
   Highest Billing Date
   Maximum billing amount
   Last Date invoice issued
