@@ -11,3 +11,6 @@ We will use customer information to generate a 'trust' score on the customer. Th
 
 After calculating the score, we submit the information to a machine learning with Scikit-Learn, so that the system can predict new scores based on the learning information.
 
+
+Our formula for Score calculation described on: Score calculation.xlsx
+Our customer information: Customers_CODE.XLSX
