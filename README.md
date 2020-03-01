@@ -13,4 +13,5 @@ After calculating the score, we submit the information to a machine learning wit
 
 
 Our formula for Score calculation described on: Score calculation.xlsx
+
 Our customer information: Customers_CODE.XLSX
