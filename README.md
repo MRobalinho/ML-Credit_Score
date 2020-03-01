@@ -1,7 +1,7 @@
 # Credit Score using Machine Learning
 Using machine learning to create a credit score to customers
 
-### Multiple Linear Regression in Python with Scikit-Learn
+## Multiple Linear Regression in Python with Scikit-Learn
 
 We just performed linear regression in the above section involving two variables. Almost all the real-world problems that you are going to encounter will have more than two variables.
 
@@ -45,70 +45,28 @@ Our customer information: Customers_CODE.XLSX
  
 ### SERASA Information ( Serasa it's a company that sell's information about other companies)
  
- > Score 
+ > Serasa Score 
  
  > Probability of not paying
-
-
   
- 
- 
+ > Last date non payment
+
+ > Amount of unpaid documents
+
+ > Value of unpaid documents
   
-  Last date non payment
-
-
-  Amount of unpaid documents
-
-
-  Value of unpaid documents
-
-
-  
+ > Last date bad checks
  
- 
+ > Amount of bad checks
   
-  Last date bad checks
+ > Last date protests
 
-
-  Amount of bad checks
-
-
+ > Value protests
   
- 
- 
+ > Last date judicial actions
+
+ > Value judicial actions
   
-  Last date protests
+ > Last date overdue debts
 
-
-  Value protests
-
-
-  
- 
- 
-  
-  Last date judicial actions
-
-
-  Value judicial actions
-
-
-  
- 
- 
-  
-  Last date overdue debts
-
-
-  Value
-  overdue
-  debts
-
-
-  
- 
-
-
-
-
-
+ > Value overdue debts
