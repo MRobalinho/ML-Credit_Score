@@ -15,22 +15,99 @@ After calculating the score, we submit the information to a machine learning wit
 Our formula for Score calculation described on: Score calculation.xlsx
 
 Our customer information: Customers_CODE.XLSX
+
+### Customer company information
  > Customer from date
  
- > State, Region, Postcode, Salesman, Main CNAE
+ > State, Region, Postcode, Salesman, Main CNAE (type of company classification in Brazil)
  
  > Highest Billing Date
-  Maximum billing amount
-  Last Date invoice issued
-  Largest credit exposure date
-  Highest credit exposure
-  Average historical delay
-  Average revenue last 48 months  
-  Amount payable Overdue
-  Amount payable due
-  Customer Last Order Date
-  Date of this information
+  
+ > Maximum billing amount
+  
+ > Last Date invoice issued
  
+ > Largest credit exposure date
+ 
+ > Highest credit exposure
+ 
+ > Average historical delay
+ 
+ > Average revenue last 48 months  
+ 
+ > Amount payable Overdue
+ 
+ > Amount payable due
+ 
+ > Customer Last Order Date
+ 
+ > Date of this information
+ 
+### SERASA Information ( Serasa it's a company that sell's information about other companies)
+ 
+ > Score 
+ 
+ > Probability of not paying
+
+
+  
+ 
+ 
+  
+  Last date non payment
+
+
+  Amount of unpaid documents
+
+
+  Value of unpaid documents
+
+
+  
+ 
+ 
+  
+  Last date bad checks
+
+
+  Amount of bad checks
+
+
+  
+ 
+ 
+  
+  Last date protests
+
+
+  Value protests
+
+
+  
+ 
+ 
+  
+  Last date judicial actions
+
+
+  Value judicial actions
+
+
+  
+ 
+ 
+  
+  Last date overdue debts
+
+
+  Value
+  overdue
+  debts
+
+
+  
+ 
+
 
 
 
