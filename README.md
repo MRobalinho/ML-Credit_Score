@@ -15,3 +15,21 @@ After calculating the score, we submit the information to a machine learning wit
 Our formula for Score calculation described on: Score calculation.xlsx
 
 Our customer information: Customers_CODE.XLSX
+  Customer from date
+  State, Region, Postcode, Salesman, Main CNAE
+  Highest Billing Date
+  Maximum billing amount
+  Last Date invoice issued
+  Largest credit exposure date
+  Highest credit exposure
+  Average historical delay
+  Average revenue last 48 months  
+  Amount payable Overdue
+  Amount payable due
+  Customer Last Order Date
+  Date of this information
+ 
+
+
+
+
